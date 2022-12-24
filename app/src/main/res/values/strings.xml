@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My</string>
+    <string name="edit_text1">Enter Number 1</string>
+    <string name="edit_text2">Enter Number 2</string>
+    <string name="btn1">+</string>
+    <string name="btn2">-</string>
+    <string name="btn3">*</string>
+    <string name="btn4">/</string>
+    <string name="btn5">C</string>
+    <string name="date_picker_dialog">Show Date Dialog</string>
+    <string name="customtoast">Enter numbers.</string>
+
+    <string name="sachin_tendulkar_button">Sachin Tendulkar</string>
+    <string name="brain_lara_button">Brain Lara</string>
+    <string name="imran_khan_button">Imran Khan</string>
+
+    <string name="sachin_tendulkar_text">
+        Sachin Ramesh Tendulkar (born 24 April 1973) is an Indian former international cricketer who captained the Indian national team. He is regarded as one of the greatest batsmen in the history of cricket.Tendulkar took up cricket at the age of eleven, made his Test match debut on 15 November 1989 against Pakistan in Karachi at the age of sixteen, and went on to represent Mumbai domestically and India internationally for close to twenty-four years. In 2002, halfway through his career, Wisden ranked him the second-greatest Test batsman of all time, behind Don Bradman, and the second-greatest ODI batsman of all time, behind Viv Richards.Later in his career, Tendulkar was part of the Indian team that won the 2011 Cricket World Cup, his first win in six World Cup appearances for India.He had previously been named Player of the Tournament at the 2003 edition of the tournament.
+    </string>
+
+    <string name="brain_lara_text">
+        Brian Charles Lara, TC, OCC, AM (born 2 May 1969) is a Trinidadian former international cricketer,[1][2] widely acknowledged as one of the greatest batsmen of all time.He topped the Test batting rankings on several occasions and holds several cricketing records, including the record for the highest individual score in first-class cricket, with 501 not out for Warwickshire against Durham at Edgbaston in 1994,[6] which is the only quintuple-hundred in first-class cricket history.
+    </string>
+
+    <string name="imran_khan_text">
+            Imran Ahmed Khan Niazi born 5 October 1952) is a Pakistani politician and former cricketer who served as the 22nd prime minister of Pakistan from August 2018 until April 2022, when he was ousted through a no-confidence motion. He is the founder and chairman of the Pakistan Tehreek-e-Insaf (PTI), one of the largest political parties in the country. He has been ranked among the worlds most influential Muslims.
+
+    </string>
+
+
+</resources>
